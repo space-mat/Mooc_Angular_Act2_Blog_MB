@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'Mooc-Angular-Act2-Bibli';
+  title = 'AngularAct1-Blog';
+
+
+	constructor(){}
+
 }
+	
